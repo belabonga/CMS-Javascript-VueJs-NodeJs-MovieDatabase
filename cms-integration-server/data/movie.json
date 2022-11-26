@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "title" : "Pengabdi Saiton",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 5,
+        "genreId" : 1,
+        "authorId" : 1
+    },
+    {
+        "id" : 2,
+        "title" : "The Hacktiv8 Trilogy",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 1,
+        "genreId" : 2,
+        "authorId" : 1
+    },
+    {
+        "id" : 3,
+        "title" : "Love Story",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 5,
+        "genreId" : 3,
+        "authorId" : 1
+    },
+    {
+        "id" : 3,
+        "title" : "Animal",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 5,
+        "genreId" : 4,
+        "authorId" : 1
+    },
+    {
+        "id" : 4,
+        "title" : "Bussiness Proposal",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 3,
+        "genreId" : 5,
+        "authorId" : 1
+    },
+    {
+        "id" : 5,
+        "title" : "The Conjuring",
+        "synopsis" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut dolor tincidunt, fermentum turpis id, malesuada nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam venenatis, eros et auctor sagittis, massa eros congue orci, non luctus neque tortor sed arcu.",
+        "trailerUrl" : "https://youtu.be/8LIHcd7WfWI",
+        "imgUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/06/23/poster-pengabdi-setan-2-communion.jpeg?w=700&q=90",
+        "rating" : 4,
+        "genreId" : 1,
+        "authorId" : 1
+    }
+]

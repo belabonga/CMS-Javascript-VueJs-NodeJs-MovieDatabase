@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "username" : "shan",
+        "email" : "shan@email.com",
+        "password" : "shan",
+        "role" : "admin",
+        "phoneNumber" : "08123456",
+        "address" : "Jaksel"
+    },
+    {
+        "id" : 2,
+        "username" : "nia",
+        "email" : "nia@email.com",
+        "password" : "nia",
+        "role" : "staff",
+        "phoneNumber" : "08123456",
+        "address" : "Jaksel"
+    },
+    {
+        "id" : 3,
+        "username" : "shania",
+        "email" : "shania@email.com",
+        "password" : "shania",
+        "role" : "customer",
+        "phoneNumber" : "08123456",
+        "address" : "Jaksel"
+    }
+]

@@ -1,0 +1,43 @@
+# SHOW ALL MOVIES
+GET http://localhost:3000/movie
+###
+
+# SHOW SEARCH MOVIE BY ID 
+GET http://localhost:3000/movie/4
+# params :id
+
+###
+# CREATE NEW MOVIE
+POST http://localhost:3000/movie/add
+
+###
+# DELETE MOVIE BY ID
+DELETE http://localhost:3000/movie/1/delete
+Content-Type: application/json
+
+{
+   "id" : 1 
+}
+
+
+###
+# REGISTER
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "email" : "shanshan@email.com",
+    "password" : "shaniaaaaa"
+}
+
+
+###
+# LOGIN
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "username" : "shan",
+    "password" : "shan"
+}
+
